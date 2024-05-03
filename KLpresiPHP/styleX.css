@@ -1,0 +1,41 @@
+/* General Style */
+#wrapper {
+	width: 90%;
+	font-family: Enriquetta, sans-serif;
+	font-size: 32px;
+	margin: 50px;
+	border: solid 1px;
+	padding: 15px;
+}
+
+#code {
+	width: 90%;
+	font-family: Enriquetta, sans-serif;
+	font-size: 32px;
+	margin: 50px;
+	border: solid 1px;
+	padding: 15px;
+}
+
+body {
+	background-color: #DCDCDC;
+	font-size: 100%;
+	margin: 0em;
+	padding: 0em;
+	height: 100%;
+	background-image: url("Bilder/Kreuz2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+	font-family: Enriquetta, sans-serif;
+}
+
+p {
+	font-weight: bold;
+}

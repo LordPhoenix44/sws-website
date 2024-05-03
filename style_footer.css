@@ -1,0 +1,28 @@
+/*Footer*/
+a {
+	text-decoration: none;
+	color: white;
+}
+
+footer {
+	font-size: 1.3em;
+}
+
+footer ul {
+	padding: 1.250em;
+	text-align: center;
+	width: auto;
+	height: auto;
+}
+
+footer li {
+	color: white;
+	margin: 6.250em;
+	display: inline;
+}
+
+.Banner1 {
+	background-image: url("Bilder/Kreuz1.jpg");
+	background-position: bottom;
+	background-size: cover;
+}

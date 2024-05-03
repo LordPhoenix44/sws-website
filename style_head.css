@@ -1,0 +1,87 @@
+/*Header*/
+
+header {
+	width: auto;
+	display: block;
+	text-align: center;
+}
+
+.Banner {
+	background-image: url("Bilder/Kreuz.jpg");
+	background-position: top;
+	background-size: cover;
+}
+
+a {
+	text-decoration: none;
+}
+
+.notready {
+	display: none;
+	cursor: not-allowed;
+}
+
+h1 {
+	max-width: auto;
+	font-size: 4em;
+	line-height: 2.3em;
+	font-family: Poppins Bold;
+	font-weight: 9.375em;
+	color: white;
+	margin: 0em;
+}
+
+h2	{
+	font-size: 2.7em;
+	line-height: 1.8em;
+	font-family: Enriquetta;
+	font-weight: 100;
+	color: black;
+	margin: 0em;
+	padding: 0.7em;
+	text-align: left;
+}
+
+h3	{
+	font-size: 3.5em;
+	line-height: 1.8em;
+	font-family: Enriquetta;
+	font-weight: 100;
+	color: black;
+	padding: 0em;
+	text-align: center;
+	border-bottom: 0.1em solid #D76F19;
+}
+
+h4 {
+	font-size: 3.5em;
+	line-height: 1.8em;
+	font-family: Enriquetta;
+	font-weight: 100;
+	color: black;
+	padding: 0em;
+	text-align: left;
+	border-bottom: 0.2em solid #D76F19;
+}
+
+h5 {
+	font-size: 2.7em;
+	line-height: 1.8em;
+	font-family: Enriquetta;
+	font-weight: 100;
+	color: black;
+	margin: 0em;
+	padding: 0.7em;
+	text-align: left;
+}
+
+p {
+	font-size: 2.5em;
+	line-height: 1.25em;
+	font-family: Enriquetta;
+	font-weight: 100;
+	color: black;
+	margin: 0em;
+	padding: 1.25em;
+	text-align: justify;
+}
